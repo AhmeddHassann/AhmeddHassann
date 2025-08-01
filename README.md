@@ -3,6 +3,19 @@
 - 💞️ I’m interested in Competitive Programming
 - 🌱 I’m currently learning Data Analysis with Python
 
+# Problem Solving
+
+- **Platform:**
+  - [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_.AhmedHassan._)
+
+- **Problem-Solving Techniques:**
+  - **Greedy Algorithms**
+  - **Dynamic Programming**
+  - **Graph Theory**
+  - **Divide and Conquer**
+  - **Backtracking**
+  - **Number Theory**
+
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
