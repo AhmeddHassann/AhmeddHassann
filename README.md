@@ -3,7 +3,7 @@
 - 💞️ I’m interested in Competitive Programming
 - 🌱 I’m currently learning Data Analysis with Python
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -18,6 +18,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🌐 Socials:
+# 🌐 Socials:
 - [LinkedIn](www.linkedin.com/in/ahmedd-hassann)
 - [Facebook](https://www.facebook.com/AhmedddHassann)
