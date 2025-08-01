@@ -19,5 +19,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # 🌐 Socials:
-- [LinkedIn](www.linkedin.com/in/ahmedd-hassann)
-- [Facebook](https://www.facebook.com/AhmedddHassann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedd-hassann)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AhmedddHassann)
