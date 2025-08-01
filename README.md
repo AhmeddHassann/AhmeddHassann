@@ -3,7 +3,7 @@
 - 💞️ I’m interested in Competitive Programming
 - 🌱 I’m currently learning Data Analysis with Python
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
