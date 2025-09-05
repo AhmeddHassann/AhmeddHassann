@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Ahmed Hassan
 - 💞️ I’m interested in Competitive Programming
 - 🌱 I’m currently learning Data Analysis with Python
+- 🌱 I'm currently working as a Backend Java Developer
 
 # Problem Solving
 
